@@ -1,8 +1,6 @@
 
 
-//Name: Hetarth Parikh
-//Unit,Lesson,Name of Assignment: Unit 3 Lesson 3, book Search Assignment
-//Date of Completion: October 8th 2024
+
 //Description:This is a program that holds an array of children books with their
 //designated reference numbers. Using binary and linear search methods, the code
 //will proceed to search for the book as the user enters the reference number
